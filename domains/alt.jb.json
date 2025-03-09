@@ -1,0 +1,11 @@
+{
+  "description": "jb's site - alt host: poyoweb",
+  "owner": {
+    "username": "jbcarreon123",
+    "email": "jbcarreon212@gmail.com"
+  },
+  "record": {
+    "CNAME": "poyodns.org"
+  },
+  "proxied": true
+}
